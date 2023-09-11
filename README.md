@@ -15,8 +15,25 @@ This project is an exciting opportunity to explore the intersection of finance a
 
 ### Prerequisites
 
-What is likely to be needed to install and to run *Unicoin* go here. If nothing is required (i.e. it is a website), state so.
 
+1. **Web Development Languages**: HTML, CSS, and JavaScript are fundamental to building the structure, style, and functionality of the web app.
+
+2. **Backend Programming**: A server-side language like Python, Ruby, Java, or Node.js will be needed to handle data processing and storage.
+
+3. **Database Systems**: A database system like MySQL, PostgreSQL, or MongoDB will be necessary for storing and managing user data.
+
+4. **Web Frameworks**: Utilizing web frameworks like Django (Python), Rails (Ruby), Express (Node.js), or Angular/React/Vue (JavaScript) can expedite the development process.
+
+5. **API Integration**: Knowledge of working with APIs is crucial if there's a plan to integrate with bank accounts or other external services.
+
+6. **Web Security Practices**: Given that sensitive financial data will be handled, understanding of web security practices is essential.
+
+7. **Version Control Systems**: A system like Git would be beneficial for managing changes and versioning of the codebase.
+
+8. **Deployment and Hosting Platforms**: Familiarity with platforms like AWS, Google Cloud, or Heroku is required to deploy the web app and make it accessible to users.
+
+9. **UI/UX Design Skills**: While not a technical prerequisite, good user interface and user experience design are crucial in making the app intuitive and user-friendly.
+    
 ## Built With
 
 - [afreamework1](http://www.aframework1.io/): A framework that is likly to be used goes here.
