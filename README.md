@@ -25,7 +25,7 @@ What is likely to be needed to install and to run *Unicoin* go here. If nothing 
 
 ## Author
 
-- **Joy Mirembe**: *Unicoin* ['LinkedIn profile'](https://www.linkedin.com/in/joy-mirembe/)
+- **Joy Mirembe**: *Unicoin* [LinkedIn profile](https://www.linkedin.com/in/joy-mirembe/)
 
 ## Acknowledgments
 
