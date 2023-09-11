@@ -25,7 +25,7 @@ What is likely to be needed to install and to run *Unicoin* go here. If nothing 
 
 ## Author
 
-- **Your name**: *YourProposadProjectName* [yourLinkedIn or yourGithub profile](https://adrress)
+- **Joy Mirembe**: *Unicoin* [yourLinkedIn or yourGithub profile]([https://adrress](https://www.linkedin.com/in/joy-mirembe/))
 
 ## Acknowledgments
 
