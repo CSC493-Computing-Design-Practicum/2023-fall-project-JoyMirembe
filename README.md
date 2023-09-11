@@ -42,7 +42,7 @@ This project is an exciting opportunity to explore the intersection of finance a
 
 ## Author
 
-- **Joy Mirembe**: *Unicoin* [LinkedIn](https://www.linkedin.com/in/joy-mirembe/)[GitHub](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe)
+- **Joy Mirembe**: *Unicoin* [LinkedIn](https://www.linkedin.com/in/joy-mirembe/) [GitHub](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe)
 
 ## Acknowledgments
 
