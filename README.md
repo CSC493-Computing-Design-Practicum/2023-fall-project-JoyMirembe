@@ -1,8 +1,5 @@
 # *UniCoin*
-<img width="434" alt="image" src="https://github.com/CSC493-Computing-Design-Practicum/2023-fall-proje<img width="362" alt="Screenshot 2023-09-18 at 5 09 43 PM" src="https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe/assets/97653490/5b2b0a3e-6469-46c2-b508-17f909f2a438">
-ct-JoyMirembe/assets/97653490/a4731ff6-90be-4e3f-883b-a3c288bef4bd">
-
-![Capstone Logo](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe/assets/97653490/ad2ae91e-54f8-43e2-9671-90cd45bfad2f)
+<img width="362" alt="Screenshot 2023-09-18 at 5 09 43 PM" src="https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe/assets/97653490/5b2b0a3e-6469-46c2-b508-17f909f2a438">
 
 ## Description/Motivation
 
