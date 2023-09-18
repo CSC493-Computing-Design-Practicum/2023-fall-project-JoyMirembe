@@ -1,6 +1,8 @@
 # *UniCoin*
 ## Description/Motivation
 
+- [Concept File](concept.md)
+  
 **Project Proposal: Unicoin - A Student Budgeting App**
 
 Unicoin is a mobile application designed to empower students to take control of their financial health. The app aims to simplify budgeting, saving, and financial planning for students, providing them with the tools they need to manage their money effectively.
