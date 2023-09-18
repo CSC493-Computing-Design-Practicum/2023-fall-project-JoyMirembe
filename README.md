@@ -1,4 +1,6 @@
 # *UniCoin*
+![Capstone Logo](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe/assets/97653490/ad2ae91e-54f8-43e2-9671-90cd45bfad2f)
+
 ## Description/Motivation
 
 - [Concept File](concept.md)
