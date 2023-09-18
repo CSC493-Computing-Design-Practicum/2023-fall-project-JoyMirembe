@@ -1,4 +1,4 @@
-# CSC 493: R01: Project Concept Proposal<sup>1</sup>
+# CSC 493: R01: UniCoin<sup>1</sup>
 
 
 
