@@ -3,11 +3,14 @@
 **Functional Requirements:**
 
 1. **Number:** FR1
-   
    **Statement:** The software should allow users to input their daily expenses categorized by type.
+   
    **Evaluation Method:** Test the software with various types of expenses and verify that they are correctly categorized and recorded.
+   
    **Dependency:** None
+   
    **Priority:** Essential
+   
    **Requirement Revision History:** N/A
 
 3. **Number:** FR2
