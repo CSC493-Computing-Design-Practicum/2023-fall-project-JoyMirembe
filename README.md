@@ -3,7 +3,7 @@
 
 ## Description/Motivation
 
-- [Concept File](concept.md)
+-[Concept File](concept.md)
   
 **Project Proposal: Unicoin - A Student Budgeting App**
 
@@ -43,7 +43,9 @@ Unicoin is designed to create a user-friendly budgeting app specifically designe
 8. **Deployment and Hosting Platforms**: Familiarity with platforms like AWS, Google Cloud, or Heroku is required to deploy the web app and make it accessible to users.
 
 9. **UI/UX Design Skills**: While not a technical prerequisite, good user interface and user experience design are crucial in making the app intuitive and user-friendly.
-    
+
+- [Requiremen](requirements.md)
+  
 ## Built With
 
 - [afreamework1](http://www.aframework1.io/): A framework that is likly to be used goes here.
