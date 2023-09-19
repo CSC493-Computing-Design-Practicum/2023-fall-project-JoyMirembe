@@ -17,6 +17,12 @@ Unicoin is not just useful - it's also interesting and fun. The app gamifies sav
 
 This project is an exciting opportunity to explore the intersection of finance and technology, and to create a tool that can make a real difference in students' lives. By developing Unicoin, I hope to promote financial literacy among students and help them build strong financial habits that will benefit them long after they graduate.
 
+### Scope
+The scope of Unicoin is to include features such as expense tracking, budget planning, savings goals, and spending insights. These features are designed to empower students to take control of their finances by providing them with the tools they need to track their expenses, plan their budgets, save for their goals, and understand their spending habits. Out of scope for this project are features like integration with bank accounts, peer comparison, and a rewards system. While these features could enhance the user experience and functionality of Unicoin, they are currently not planned to be included due to time constraints and additional complexities.
+
+### Vision
+Unicoin is designed to create a user-friendly budgeting app specifically designed for college students. My goal is to empower students to take control of their finances, helping them navigate through their college years without the constant worry of overspending. With Unicoin, I envision this as an app where every student can easily track their expenses, plan their budgets, and save for their goals, all in one place.
+
 ### Prerequisites
 
 
