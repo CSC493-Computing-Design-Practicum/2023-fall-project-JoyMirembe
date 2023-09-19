@@ -23,8 +23,8 @@ The scope of Unicoin is to include features such as expense tracking, budget pla
 ### Vision
 Unicoin is designed to create a user-friendly budgeting app specifically designed for college students. My goal is to empower students to take control of their finances, helping them navigate through their college years without the constant worry of overspending. With Unicoin, I envision this as an app where every student can easily track their expenses, plan their budgets, and save for their goals, all in one place.
 
+- check
 ### Prerequisites
-
 
 1. **Web Development Languages**: HTML, CSS, and JavaScript are fundamental to building the structure, style, and functionality of the web app.
 
