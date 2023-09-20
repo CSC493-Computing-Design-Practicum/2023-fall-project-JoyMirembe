@@ -146,13 +146,4 @@ I could implement a system for users to provide feedback on the app. This could 
 
 **Other:** (Optional section) To the above, you may add any additional items that you think will strengthen your proposal.
 
-You may want to use [MarkDown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) and [MarkDown Live Demo](http://www.markdown-here.com/livedemo.html).
 
-Add a relative link to concept.md from README.md to concept.md. (A relative link uses just the file name and not http://...) Test this link and make sure it works.
-
-# To Submit 
-
-See [Awesome READMEs](https://github.com/matiassingers/awesome-readme) for a list of great README files. In addition to creating the <code>concept.md</code> file, update <code>README.md</code> with any imnprovements and a link to the <code>concept.md</code> file.
-
-
-<sub>Adapted from <a href="https://github.com/pearcej/pearcej.github.io/edit/master/csc493/r01-project-concept.md">https://github.com/pearcej/pearcej.github.io/edit/master/csc493/r01-project-concept.md</a> </sub>
