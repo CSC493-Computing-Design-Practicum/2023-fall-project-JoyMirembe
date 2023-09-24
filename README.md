@@ -1,6 +1,10 @@
 # *UniCoin*
+<img width="362" alt="Screenshot 2023-09-18 at 5 09 43 PM" src="https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe/assets/97653490/5b2b0a3e-6469-46c2-b508-17f909f2a438">
+
 ## Description/Motivation
 
+- [Concept File](concept.md)
+  
 **Project Proposal: Unicoin - A Student Budgeting App**
 
 Unicoin is a mobile application designed to empower students to take control of their financial health. The app aims to simplify budgeting, saving, and financial planning for students, providing them with the tools they need to manage their money effectively.
@@ -13,8 +17,14 @@ Unicoin is not just useful - it's also interesting and fun. The app gamifies sav
 
 This project is an exciting opportunity to explore the intersection of finance and technology, and to create a tool that can make a real difference in students' lives. By developing Unicoin, I hope to promote financial literacy among students and help them build strong financial habits that will benefit them long after they graduate.
 
-### Prerequisites
+### Scope
+The scope of Unicoin is to include features such as expense tracking, budget planning, savings goals, and spending insights. These features are designed to empower students to take control of their finances by providing them with the tools they need to track their expenses, plan their budgets, save for their goals, and understand their spending habits. Out of scope for this project are features like integration with bank accounts, peer comparison, and a rewards system. While these features could enhance the user experience and functionality of Unicoin, they are currently not planned to be included due to time constraints and additional complexities.
 
+### Vision
+Unicoin is designed to create a user-friendly budgeting app specifically designed for college students. My goal is to empower students to take control of their finances, helping them navigate through their college years without the constant worry of overspending. With Unicoin, I envision this as an app where every student can easily track their expenses, plan their budgets, and save for their goals, all in one place.
+
+
+### Prerequisites
 
 1. **Web Development Languages**: HTML, CSS, and JavaScript are fundamental to building the structure, style, and functionality of the web app.
 
@@ -33,7 +43,9 @@ This project is an exciting opportunity to explore the intersection of finance a
 8. **Deployment and Hosting Platforms**: Familiarity with platforms like AWS, Google Cloud, or Heroku is required to deploy the web app and make it accessible to users.
 
 9. **UI/UX Design Skills**: While not a technical prerequisite, good user interface and user experience design are crucial in making the app intuitive and user-friendly.
-    
+
+- [Requirements](requirements.md)
+  
 ## Built With
 
 - [afreamework1](http://www.aframework1.io/): A framework that is likly to be used goes here.
