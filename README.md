@@ -65,8 +65,11 @@ Unicoin is designed to create a user-friendly budgeting app specifically designe
 - **About the Lead Developer**:
 
 **Name**: Joy Mirembe
+
 **Role**: Computer Science Student
+
 **Education**: Computer Science from Berea College
+
 **Project**: UniCoin
 
 Joy Mirembe is a dedicated computer science student at Berea College. With a strong foundation in computer science principles and a passion for problem-solving, Joy has been involved in several academic projects.
