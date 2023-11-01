@@ -62,13 +62,13 @@ Unicoin is designed to create a user-friendly budgeting app specifically designe
   
 - **About the Lead Developer**:
 
-- **Joy Mirembe**: *Unicoin* [LinkedIn](https://www.linkedin.com/in/joy-mirembe/) [GitHub](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe)
+**Name**: Joy Mirembe [LinkedIn](https://www.linkedin.com/in/joy-mirembe/) 
 
-**Role**: Computer Science Student
+**Role**: Lead Developer
 
-**Education**: Computer Science from Berea College
+**Education**: Computer Science at Berea College
 
-**Project**: UniCoin
+**Project**: UniCoin [GitHub](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe)
 
 Joy Mirembe is a dedicated computer science student at Berea College. With a strong foundation in computer science principles and a passion for problem-solving, Joy has been involved in several academic projects.
 
