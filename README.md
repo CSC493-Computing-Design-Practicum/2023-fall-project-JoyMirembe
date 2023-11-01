@@ -54,9 +54,9 @@ Unicoin is designed to create a user-friendly budgeting app specifically designe
 
 ## Built With
 
-- [afreamework1](http://www.aframework1.io/): A framework that is likly to be used goes here.
-- [afreamework2](http://www.aframework2.io/): A second framework that is likly to be used goes here.
-- IDE, if applicable
+- [Nodejs](http://www.aframework1.io/)
+- [React](http://www.aframework2.io/)
+- Visual Studio Code
 
 ## Author
   
