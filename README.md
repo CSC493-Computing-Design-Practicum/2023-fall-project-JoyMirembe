@@ -46,9 +46,10 @@ Unicoin is designed to create a user-friendly budgeting app specifically designe
 
 9. **UI/UX Design Skills**: While not a technical prerequisite, good user interface and user experience design are crucial in making the app intuitive and user-friendly.
 
+### [Requirements](requirements.md)
 - [Requirements](requirements.md)
 
-  
+### [Design](design.md)
 - [Design](design.md)
 
 ## Built With
@@ -60,6 +61,8 @@ Unicoin is designed to create a user-friendly budgeting app specifically designe
 ## Author
 
 - **Joy Mirembe**: *Unicoin* [LinkedIn](https://www.linkedin.com/in/joy-mirembe/) [GitHub](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe)
+- About the Lead Developer:
+  Senior Computer Science Major and Business Minor at Berea College
 
 ## Acknowledgments
 
