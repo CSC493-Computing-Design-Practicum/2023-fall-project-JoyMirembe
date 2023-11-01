@@ -59,12 +59,10 @@ Unicoin is designed to create a user-friendly budgeting app specifically designe
 - IDE, if applicable
 
 ## Author
-
-- **Joy Mirembe**: *Unicoin* [LinkedIn](https://www.linkedin.com/in/joy-mirembe/) [GitHub](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe)
   
 - **About the Lead Developer**:
 
-**Name**: Joy Mirembe
+- **Joy Mirembe**: *Unicoin* [LinkedIn](https://www.linkedin.com/in/joy-mirembe/) [GitHub](https://github.com/CSC493-Computing-Design-Practicum/2023-fall-project-JoyMirembe)
 
 **Role**: Computer Science Student
 
