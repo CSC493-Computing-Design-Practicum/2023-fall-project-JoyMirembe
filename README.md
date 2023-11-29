@@ -85,7 +85,7 @@ Joy's dedication and passion for computer science are evident in her work, and s
 - If you find code that you are going to use in YourProjectName, include author's name and URL here.
 - all who inspired the idea and/or the code in YourProjectName
 - other people you wish to acknowledge
-
+## [Installation and use guide](installation.md)
 ## License (not required initially)
 
 This project is licensed under the ??? License - see the wiki page (https://en.wikipedia.org/wiki/Software_license) for details
