@@ -1,3 +1,5 @@
+(This is the readme file for Create React App which is what I used to start my frontend)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
